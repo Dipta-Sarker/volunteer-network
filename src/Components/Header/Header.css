@@ -1,0 +1,48 @@
+.header img{
+    height: 60px;
+    position: absolute;
+    margin-left:88px;
+    margin-top:44px;
+    
+}
+.header nav{
+    margin-top: 63PX;
+    margin-left:596px;   
+    position: absolute;
+    
+    
+}
+.header nav a{
+    text-decoration: none;
+    margin-right: 44px;
+    color: black;
+    font-size: 18px;
+    padding: 5px;
+    font-weight: 500;
+}
+.header nav button{
+    height: 50px;
+    width: 153px;
+    margin-right: 44px;
+}
+.header nav a:hover{
+    background-color: orange;
+    border-radius: 5px;
+}
+.search{
+    text-align: center;
+    margin-top: 173px;
+    position: absolute;
+    margin-left: 460px;
+    
+}
+.search input{
+    width: 285px;
+    border-radius: 5px;
+    background-color: rgb(252, 252, 252);
+    margin-top: 15px;
+}
+.search button{
+    border-radius: 15px;
+}
+
